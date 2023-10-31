@@ -1,4 +1,3 @@
-
 #include <stdlib.h>
 #include "main.h"
 
@@ -75,4 +74,5 @@ char **strtow(char *str)
 	matrix[k] = NULL;
 
 	return (matrix);
+}
 
