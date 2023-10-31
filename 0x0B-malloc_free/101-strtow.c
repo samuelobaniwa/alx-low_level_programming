@@ -1,4 +1,5 @@
-[7:02 PM, 9/4/2023] Flawless Express: #include <stdlib.h>
+
+#include <stdlib.h>
 #include "main.h"
 
 /**
@@ -74,4 +75,4 @@ char **strtow(char *str)
 	matrix[k] = NULL;
 
 	return (matrix);
-}
+
