@@ -35,7 +35,7 @@ Ju	{
 
 	new->prev = h;
 
-	return (new):
+	return (new);
 }
 
 
